@@ -21,7 +21,7 @@ myImage.onclick = function() {
 
  var button1 = document.querySelector('button');
  button1.onclick = function setName() {
-	  var name1 = prompt('May I have your '); 
+	  var name1 = prompt('May I have your Name ? '); 
 	  localStorage.setItem('name', name1);
 	  me.textContent ='Welcome ' + name1; 
 	 
