@@ -1,0 +1,54 @@
+h1{
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	font-size: 60px;
+    margin :0;
+  padding-bottom : 30px;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+	
+	
+	
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom : 40px; 
+  width : 700px;
+}
+html{
+	background-color : grey;
+	
+	
+	
+}
+body{
+	width : 1000px;
+	background-color: silver;
+	margin: 0 auto;
+	border: 4px solid black;
+	padding: 0 20px 20px 20px;
+}
+
+ p {
+
+	font-size: 20px; 
+	font-family: 'Poiret One', cursive;
+	
+}
+
+#my-id {
+font-family: 'Poiret One', cursive;	
+	
+	
+}
+a:hover{
+	color = red;
+	
+}
+
+
+li{
+
+	font-family: 'Poiret One', cursive;
+}
